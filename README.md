@@ -14,7 +14,7 @@ For TCGA-LAML analyses, the codes are:
 9. compare_correlation_flt.pl to detect the same domain and cross boundary correlation changes for dysreguated boundary identification analysis
 10. dysregulated_TADs_flt.pl to identify dysreguated boundaries.
 
-RNA-Seq anaylyses code:
+RNA-Seq analyses code:
 1. raw_count_to_FPKM.R to calculate FPKM for htseq counts files
 2. FPKM_CVT_TPM.pl to convert FPKM to TPM
 3. DEG.R to do the differential gene expression by edgeR
